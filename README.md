@@ -1,3 +1,3 @@
 # About
 
-<a href="https://scarlnicolas.github.io/intex">ΕΔΩ</a>
+<a href="https://scarlnicolas.github.io/intex.html">ΕΔΩ</a>
