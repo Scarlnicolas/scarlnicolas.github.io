@@ -6,5 +6,5 @@
 <ul> 
 <li>Is not for financial profit.
 <li>Does not represent a company or organization. 
-<li>Is a research on technology of web source code.
+<li>Is for research on technology of web source code.
 </ul>
