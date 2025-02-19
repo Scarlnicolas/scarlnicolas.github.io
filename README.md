@@ -1,4 +1,4 @@
-<img src="mytest.png">
+<img src="mytest.jpeg">
 
 <h3>Welcome!</h3>
 
