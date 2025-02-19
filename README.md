@@ -1,4 +1,4 @@
-<img src="https://github.com/Scarlnicolas/scarlnicolas.github.io/blob/main/test.png">
+<img src="test.png">
 
 <h3>Welcome!</h3>
 
