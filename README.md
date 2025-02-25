@@ -8,4 +8,4 @@
   <li>Is not for financial profit.</li>
   <li>Does not represent a company or organization.</li>
   <li>Is for research on technology of web source code.</li>
-</ul></body>
+</ul>
